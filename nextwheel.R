@@ -9,8 +9,7 @@ library(dplyr)
 library(plotrix)
 
 # Configure Google OAuth credentials
-google_client_id <- "833132087641-a64fnaog0prp0iadukhruo8qrbh1inp8.apps.googleusercontent.com"
-google_client_secret <- "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"
+
 
 # Define scopes
 scopes <- c(
